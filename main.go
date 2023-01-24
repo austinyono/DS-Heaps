@@ -96,9 +96,9 @@ func main() {
 		fmt.Println(m)
 	}
 
-	for i := 0; i < 5; i++ {
-		m.Extract()
-		fmt.Println(m)
-	}
+	//for i := 0; i < 5; i++ {
+	//	m.Extract()
+	//	fmt.Println(m)
+	//}
 
 }
